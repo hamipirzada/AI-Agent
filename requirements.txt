@@ -1,4 +1,4 @@
-streamlit-1.41.1
+streamlit
 pinecone-client==2.2.2
 sentence-transformers==2.2.2
 huggingface-hub==0.4.0
