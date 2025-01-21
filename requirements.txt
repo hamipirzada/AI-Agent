@@ -1,6 +1,5 @@
-streamlit
+streamlit==1.41.0
 pinecone-client==2.2.2
 sentence-transformers==2.2.2
-huggingface-hub==0.4.0
 requests==2.31.0
 tokenizers==0.15.2
