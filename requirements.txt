@@ -1,5 +1,6 @@
 streamlit==1.41.0
 pinecone-client>=3.0.0
-sentence-transformers==2.2.2
+sentence-transformers>=2.2.2
 requests==2.31.0
 tokenizers==0.15.2
+huggingface-hub>=0.16.4
